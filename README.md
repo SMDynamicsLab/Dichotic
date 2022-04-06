@@ -1,6 +1,5 @@
 # Dichotic
 
-PRUEBA
 
 Experimento de estímulos dicóticos.
 
